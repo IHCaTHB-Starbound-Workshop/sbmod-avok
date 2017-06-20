@@ -2,14 +2,14 @@
 
   "kind" : "avok",
   "charCreationTooltip" : {
-    "title" : "avok",
+    "title" : "Avok",
     "subTitle" : "Minimalist Race Mod Template",
     "description" : "Species that utilize existing assets where it can."
   },
 
   "nameGen" : [ "/species/aviannamegen.config:names", "/species/aviannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/avianhurt_male1.ogg", "/sfx/humanoid/avianhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Feather colour", "Plumage", "Shirt", "Legwear", "Beak", "Fluff", "Shirt colour", "Legwear colour", "avok", "Personality" ],
+  "charGenTextLabels" : [ "Feather colour", "Plumage", "Shirt", "Legwear", "Beak", "Fluff", "Shirt colour", "Legwear colour", "AVOK", "Personality" ],
   "skull" : "/humanoid/avian/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ff7a69FF?replace=31a6ffFF=d93a3aFF",
   "defaultBlueprints" : {
@@ -92,25 +92,25 @@
 
   "altOptionAsFacialMask" : true,
   "altColorAsFacialMaskSubColor" : true,
-//  "altOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
 //  "altOptionAsUndyColor" : true,
 
   "bodyColorAsFacialMaskSubColor" : true,
 
-//  "hairColorAsBodySubColor" : true,
+  "hairColorAsBodySubColor" : true,
   "headOptionAsFacialhair" : true,
-//  "headOptionAsHairColor" : true,
+  "headOptionAsHairColor" : true,
 
   "genders" : [
     {
        "name" : "male",
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/avokmale.png",
-      "hair" : [ "1" ],
+      "hair" : [ "1", "2" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
-      "facialHairGroup" : "fluff",
-      "facialHair" : [ "2" ],
+      "facialHairGroup" : "beaks",
+      "facialHair" : [ "1" ],
       "facialMaskGroup" : "beaks",
       "facialMask" : [ "1" ]
     },
@@ -118,23 +118,30 @@
       "name" : "female",
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/avokfemale.png",
-      "hair" : [ "1" ],
+      "hair" : [ "1", "2" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
-      "facialHairGroup" : "fluff",
-      "facialHair" : [ "2" ],
+      "facialHairGroup" : "beaks",
+      "facialHair" : [ "1" ],
       "facialMaskGroup" : "beaks",
       "facialMask" : [ "1" ]
     }
   ],
   "bodyColor" : [
-    //placeholder blue
-    { "ffca8a" : "8ac", "e0975c" : "68a", "a85636" : "468", "6f2919" : "246", "f32200" : "f6fbfb", "dc1f00" : "d7e8e8", "be1b00" : "8fa7a3", "951500" : "5d6d69", "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" },
-    //placeholder brown
-    { "ffca8a" : "ca8", "e0975c" : "a86", "a85636" : "864", "6f2919" : "642", "f32200" : "f6fbfb", "dc1f00" : "d7e8e8", "be1b00" : "8fa7a3", "951500" : "5d6d69", "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" },
-    //placeholder grey
-    { "ffca8a" : "eee", "e0975c" : "ccc", "a85636" : "aaa", "6f2919" : "888", "f32200" : "f6fbfb", "dc1f00" : "d7e8e8", "be1b00" : "8fa7a3", "951500" : "5d6d69", "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" }
+    //gem
+    { "d9c189" : "ea6a56", "a38d59" : "b9182a", "735e3a" : "842138" },
+    //talon
+    { "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" },
+    //dark body
+    { "d9c189" : "c3ae4f", "a38d59" : "896f34", "735e3a" : "60411b" },
+    //light body
+    { "d9c189" : "ded47d", "a38d59" : "c3ae4f", "735e3a" : "896f34" }
   ],
   "undyColor" : [ "" ],
-  "hairColor" : [ "" ]
+  "hairColor" : [
+    {},
+    {"ea6a56":"f5c945","b9182a":"f09637","842138":"ba5732"},
+    {"ea6a56":"73c6da","b9182a":"4689c0","842138":"3b4f75"},
+    {"ea6a56":"ccc","b9182a":"aaa","842138":"888"}
+  ]
 }
