@@ -92,13 +92,13 @@
 
   "altOptionAsFacialMask" : true,
   "altColorAsFacialMaskSubColor" : true,
-  "altOptionAsHairColor" : true,
+//  "altOptionAsHairColor" : true,
 //  "altOptionAsUndyColor" : true,
 
   "bodyColorAsFacialMaskSubColor" : true,
 
   "hairColorAsBodySubColor" : true,
-  "headOptionAsFacialhair" : true,
+//  "headOptionAsFacialhair" : true,
   "headOptionAsHairColor" : true,
 
   "genders" : [
@@ -109,8 +109,8 @@
       "hair" : [ "1", "2" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
-      "facialHairGroup" : "beaks",
-      "facialHair" : [ "1" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
       "facialMaskGroup" : "beaks",
       "facialMask" : [ "1" ]
     },
@@ -121,8 +121,8 @@
       "hair" : [ "1", "2" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
-      "facialHairGroup" : "beaks",
-      "facialHair" : [ "1" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
       "facialMaskGroup" : "beaks",
       "facialMask" : [ "1" ]
     }
@@ -130,12 +130,8 @@
   "bodyColor" : [
     //gem
     { "d9c189" : "ea6a56", "a38d59" : "b9182a", "735e3a" : "842138" },
-    //talon
-    { "d9c189" : "eacf60", "a38d59" : "c1a24e", "735e3a" : "977841" },
-    //dark body
-    { "d9c189" : "c3ae4f", "a38d59" : "896f34", "735e3a" : "60411b" },
-    //light body
-    { "d9c189" : "ded47d", "a38d59" : "c3ae4f", "735e3a" : "896f34" }
+    //body
+    { "d9c189" : "c3ae4f", "a38d59" : "896f34", "735e3a" : "60411b" }
   ],
   "undyColor" : [ "" ],
   "hairColor" : [
