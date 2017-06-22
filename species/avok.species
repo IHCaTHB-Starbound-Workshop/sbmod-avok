@@ -9,7 +9,7 @@
 
   "nameGen" : [ "/species/aviannamegen.config:names", "/species/aviannamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/avianhurt_male1.ogg", "/sfx/humanoid/avianhurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Feather colour", "Plumage", "Shirt", "Legwear", "Beak", "Fluff", "Shirt colour", "Legwear colour", "AVOK", "Personality" ],
+  "charGenTextLabels" : [ "Body style", "Plumage", "Shirt", "Legwear", "Beak", "Gem color", "Shirt color", "Legwear color", "AVOK", "Personality" ],
   "skull" : "/humanoid/avian/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ff7a69FF?replace=31a6ffFF=d93a3aFF",
   "defaultBlueprints" : {
@@ -179,35 +179,35 @@
       "ff0" : "ded47d", "cc0" : "c3ae4f", "990" : "896f34", "660" : "60411b",
       "0f0" : "ded47d", "0c0" : "c3ae4f", "090" : "896f34", "060" : "60411b",
       "0ff" : "ded47d", "0cc" : "c3ae4f", "099" : "896f34", "066" : "60411b",
-      "00f" : "ea6a56", "00c" : "ea6a56", "009" : "b9182a", "006" : "842138"
+      "00f" : "ea6a56", "00c" : "b9182a", "009" : "b9182a", "006" : "842138"
     },
     {
       "f00" : "ded47d", "c00" : "c3ae4f", "900" : "896f34", "600" : "60411b",
       "ff0" : "ded47d", "cc0" : "c3ae4f", "990" : "896f34", "660" : "60411b",
       "0f0" : "ded47d", "0c0" : "c3ae4f", "090" : "896f34", "060" : "60411b",
       "0ff" : "ea6a56", "0cc" : "b9182a", "099" : "842138", "066" : "842138",
-      "00f" : "ea6a56", "00c" : "ea6a56", "009" : "b9182a", "006" : "842138"
+      "00f" : "ea6a56", "00c" : "b9182a", "009" : "b9182a", "006" : "842138"
     },
     {
       "f00" : "ded47d", "c00" : "c3ae4f", "900" : "896f34", "600" : "60411b",
       "ff0" : "ded47d", "cc0" : "c3ae4f", "990" : "896f34", "660" : "60411b",
       "0f0" : "ea6a56", "0c0" : "b9182a", "090" : "842138", "060" : "842138",
       "0ff" : "ea6a56", "0cc" : "b9182a", "099" : "842138", "066" : "842138",
-      "00f" : "ea6a56", "00c" : "ea6a56", "009" : "b9182a", "006" : "842138"
+      "00f" : "ea6a56", "00c" : "b9182a", "009" : "b9182a", "006" : "842138"
     },
     {
       "f00" : "ded47d", "c00" : "c3ae4f", "900" : "896f34", "600" : "60411b",
       "ff0" : "ea6a56", "cc0" : "b9182a", "990" : "842138", "660" : "842138",
       "0f0" : "ea6a56", "0c0" : "b9182a", "090" : "842138", "060" : "842138",
       "0ff" : "ea6a56", "0cc" : "b9182a", "099" : "842138", "066" : "842138",
-      "00f" : "ea6a56", "00c" : "ea6a56", "009" : "b9182a", "006" : "842138"
+      "00f" : "ea6a56", "00c" : "b9182a", "009" : "b9182a", "006" : "842138"
     },
     {
       "f00" : "ea6a56", "c00" : "b9182a", "900" : "842138", "600" : "842138",
       "ff0" : "ea6a56", "cc0" : "b9182a", "990" : "842138", "660" : "842138",
       "0f0" : "ea6a56", "0c0" : "b9182a", "090" : "842138", "060" : "842138",
       "0ff" : "ea6a56", "0cc" : "b9182a", "099" : "842138", "066" : "842138",
-      "00f" : "ea6a56", "00c" : "ea6a56", "009" : "b9182a", "006" : "842138"
+      "00f" : "ea6a56", "00c" : "b9182a", "009" : "b9182a", "006" : "842138"
     }
   ],
   "undyColor" : [ "" ],
