@@ -298,10 +298,10 @@
     {"ea6a56":"e85553","b9182a":"b53146","842138":"5f1a32"},
     //352 crystal block light red
     {"ea6a56":"fbc3cf","b9182a":"f1687a","842138":"c54142"},
-    //353 vanilla red (base)
-    {},
     //352 crystal trap off dark red
     {"ea6a56":"871132","b9182a":"671822","842138":"4f131a"},
+    //353 vanilla red (base)
+    {},
     //353 crystal trap on dark red
     {"ea6a56":"d4003c","b9182a":"a80014","842138":"7e000f"},
     //356 crystal boss eye  light red
