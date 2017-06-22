@@ -264,6 +264,14 @@
     {"ea6a56":"fbc3cf","b9182a":"f1687a","842138":"c54142"},
     //353 vanilla red (base)
     {},
+    //356 crystal boss eye  light red
+    {"ea6a56":"ffdbd9","b9182a":"d25962","842138":"a63a42"},
+    //356 crystal boss eye dark red
+    {"ea6a56":"d25962","b9182a":"a63a42","842138":"621c23"},
+    //356 crystal boss eye pale red
+    {"ea6a56":"ffdbd9","b9182a":"dd949a","842138":"d25962"},
+    //356 crystal boss eye dyn red
+    {"ea6a56":"ffdbd9","b9182a":"a63a42","842138":"621c23"},
     //360 crystal block dark red
     {"ea6a56":"f1687a","b9182a":"c54142","842138":"92312c"},
     //0.20 crystal block dark black
