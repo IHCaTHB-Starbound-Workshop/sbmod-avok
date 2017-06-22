@@ -258,6 +258,8 @@
     {"ea6a56":"c9eef6","b9182a":"76c7e4","842138":"4e8fb8"},
     //203 crystal cave bush dark blue
     {"ea6a56":"76c7e4","b9182a":"4e8fb8","842138":"366388"},
+    //204 crystal shard blue
+    {"ea6a56":"ffffff","b9182a":"a7c3d6","842138":"78abcb"},
     //207 vanilla blue
     {"ea6a56":"73c6da","b9182a":"4689c0","842138":"3b4f75"},
     //210 ancient crystal trap light blue
@@ -282,6 +284,8 @@
     {"ea6a56":"f4c3fb","b9182a":"ec68f1","842138":"c541b8"},
     //306 crystal block dark purple
     {"ea6a56":"ec68f1","b9182a":"c541b8","842138":"922c82"},
+    //341 crystal slide red
+    {"ea6a56":"ffffff","b9182a":"e5a0b6","842138":"e56b92"},
     //350 crystal grass dark red
     {"ea6a56":"e85553","b9182a":"b53146","842138":"5f1a32"},
     //352 crystal block light red
