@@ -250,6 +250,12 @@
     {"ea6a56":"2182e3","b9182a":"054eae","842138":"002c67"},
     //233 crystal furniture dark blue
     {"ea6a56":"aec4df","b9182a":"848ab6","842138":"4b4a78"},
+    //283 crystal boss dark purple
+    {"ea6a56":"af59d2","b9182a":"873aa6","842138":"4c1c62"},
+    //283 crystal boss mid purple
+    {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"873aa6"},
+    //287 crystal boss light purple
+    {"ea6a56":"f9d9ff","b9182a":"e19cf4","842138":"af59d2"},
     //298 crystal block light purple
     {"ea6a56":"f4c3fb","b9182a":"ec68f1","842138":"c541b8"},
     //306 crystal block dark purple
