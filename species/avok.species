@@ -240,6 +240,10 @@
     {"ea6a56":"80e6f3","b9182a":"54b5d3","842138":"3584a6"},
     //195 crystal dark blue
     {"ea6a56":"68e1f1","b9182a":"41a5c5","842138":"2c7392"},
+    //196 crystal cave bush light blue
+    {"ea6a56":"c9eef6","b9182a":"76c7e4","842138":"4e8fb8"},
+    //203 crystal cave bush dark blue
+    {"ea6a56":"76c7e4","b9182a":"4e8fb8","842138":"366388"},
     //207 vanilla blue
     {"ea6a56":"73c6da","b9182a":"4689c0","842138":"3b4f75"},
     //210 ancient crystal trap light blue
