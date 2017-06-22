@@ -214,6 +214,8 @@
   "hairColor" : [
     //0 crystal flower dark orange
     {"ea6a56":"dd4900","b9182a":"bf0000","842138":"8f000a"},
+    //1 crystal grass light red
+    {"ea6a56":"fab1b0","b9182a":"e85553","842138":"b53146"},
     //20 crystal flower light orange
     {"ea6a56":"f37e00","b9182a":"dd4900","842138":"bf0000"},
     //22 crystal block light orange
@@ -264,6 +266,8 @@
     {"ea6a56":"f4c3fb","b9182a":"ec68f1","842138":"c541b8"},
     //306 crystal block dark purple
     {"ea6a56":"ec68f1","b9182a":"c541b8","842138":"922c82"},
+    //350 crystal grass dark red
+    {"ea6a56":"e85553","b9182a":"b53146","842138":"5f1a32"},
     //352 crystal block light red
     {"ea6a56":"fbc3cf","b9182a":"f1687a","842138":"c54142"},
     //353 vanilla red (base)
