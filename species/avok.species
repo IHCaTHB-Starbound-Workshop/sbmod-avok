@@ -236,6 +236,10 @@
     {"ea6a56":"c6fbc3","b9182a":"68f16d","842138":"41c556"},
     //130 crystal block dark green
     {"ea6a56":"68f16d","b9182a":"41c556","842138":"2c9242"},
+    //153 crystalline bush light green
+    {"ea6a56":"0ff48e","b9182a":"14bf73","842138":"0d8751"},
+    //153 crystalline bush dark green
+    {"ea6a56":"14bf73","b9182a":"0d8751","842138":"074227"},
     //187 crystal block light blue
     {"ea6a56":"c3f9fb","b9182a":"80e6f3","842138":"54b5d3"},
     //194 crystal block dark blue
