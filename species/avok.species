@@ -220,6 +220,8 @@
     {"ea6a56":"f37e00","b9182a":"dd4900","842138":"bf0000"},
     //22 crystal block light orange
     {"ea6a56":"fbd3c3","b9182a":"f19a68","842138":"c58241"},
+    //29 crystal plant seed orange
+    {"ea6a56":"ffc744","b9182a":"fc7800","842138":"b64e00"},
     //30 crystal block dark orange
     {"ea6a56":"f19a68","b9182a":"c58241","842138":"92642c"},
     //31 vanilla orange
@@ -228,6 +230,12 @@
     {"ea6a56":"fbf2c3","b9182a":"f1e568","842138":"bfc541"},
     //63 crystal block dark yellow
     {"ea6a56":"f1e568","b9182a":"bfc541","842138":"87922c"},
+    //80 crystal plant seed dark green
+    {"ea6a56":"9dd62c","b9182a":"587c10","842138":"1d4b16"},
+    //80 crystal plant seed mid green
+    {"ea6a56":"cfff8a","b9182a":"9dd62c","842138":"587c10"},
+    //85 crystal plant seed light green
+    {"ea6a56":"e8fec9","b9182a":"cfff8a","842138":"9dd62c"},
     //97 crystal furniture light green
     {"ea6a56":"ecf9dc","b9182a":"c1dfae","842138":"87b684"},
     //116 crystal furniture dark green
