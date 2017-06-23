@@ -262,7 +262,11 @@
     {"ea6a56":"0ff48e","b9182a":"14bf73","842138":"0d8751"},
     //153 crystalline bush dark green
     {"ea6a56":"14bf73","b9182a":"0d8751","842138":"074227"},
+    //178 tree icepine blue
+    {"ea6a56":"e0fffe","b9182a":"ace8e6","842138":"649997"},
 
+    //180.85 tree prism grey/blue
+    {"ea6a56":"f5f5f5","b9182a":"d8d8d8","842138":"a7b1b1"},
     //187 crystal light blue
     {"ea6a56":"c3f9fb","b9182a":"68e1f1","842138":"41a5c5"},
     //187 crystal block light blue
