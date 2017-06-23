@@ -216,6 +216,10 @@
     {"ea6a56":"dd4900","b9182a":"bf0000","842138":"8f000a"},
     //1 crystal grass light red
     {"ea6a56":"fab1b0","b9182a":"e85553","842138":"b53146"},
+    //8 vanilla light red
+    {"ea6a56":"ffffff","b9182a":"ff9d8d","842138":"ea6a56"},
+    //8 vanilla mid red
+    {"ea6a56":"ff9d8d","b9182a":"ea6a56","842138":"b9182a"},
     //20 crystal flower light orange
     {"ea6a56":"f37e00","b9182a":"dd4900","842138":"bf0000"},
     //22 crystal block light orange
@@ -226,6 +230,10 @@
     {"ea6a56":"f19a68","b9182a":"c58241","842138":"92642c"},
     //31 vanilla orange
     {"ea6a56":"f5c945","b9182a":"f09637","842138":"ba5732"},
+    //45 vanilla mid orange
+    {"ea6a56":"ffed83","b9182a":"f5c945","842138":"f09637"},
+    //51 vanilla light orange
+    {"ea6a56":"ffffff","b9182a":"ffed83","842138":"f5c945"},
     //55 crystal block light yellow
     {"ea6a56":"fbf2c3","b9182a":"f1e568","842138":"bfc541"},
 
@@ -255,6 +263,10 @@
     {"ea6a56":"c3f9fb","b9182a":"68e1f1","842138":"41a5c5"},
     //187 crystal block light blue
     {"ea6a56":"c3f9fb","b9182a":"80e6f3","842138":"54b5d3"},
+    //188 vanilla light blue
+    {"ea6a56":"ffffff","b9182a":"98eaf6","842138":"73c6da"},
+    //192 vanilla mid blue
+    {"ea6a56":"98eaf6","b9182a":"73c6da","842138":"4689c0"},
     //194 crystal block dark blue
     {"ea6a56":"80e6f3","b9182a":"54b5d3","842138":"3584a6"},
     //195 crystal dark blue
