@@ -228,6 +228,7 @@
     {"ea6a56":"f5c945","b9182a":"f09637","842138":"ba5732"},
     //55 crystal block light yellow
     {"ea6a56":"fbf2c3","b9182a":"f1e568","842138":"bfc541"},
+
     //63 crystal block dark yellow
     {"ea6a56":"f1e568","b9182a":"bfc541","842138":"87922c"},
     //80 crystal plant seed dark green
@@ -240,6 +241,7 @@
     {"ea6a56":"ecf9dc","b9182a":"c1dfae","842138":"87b684"},
     //116 crystal furniture dark green
     {"ea6a56":"c1dfae","b9182a":"87b684","842138":"4a784e"},
+
     //122 crystal block light green
     {"ea6a56":"c6fbc3","b9182a":"68f16d","842138":"41c556"},
     //130 crystal block dark green
@@ -248,6 +250,7 @@
     {"ea6a56":"0ff48e","b9182a":"14bf73","842138":"0d8751"},
     //153 crystalline bush dark green
     {"ea6a56":"14bf73","b9182a":"0d8751","842138":"074227"},
+
     //187 crystal light blue
     {"ea6a56":"c3f9fb","b9182a":"68e1f1","842138":"41a5c5"},
     //187 crystal block light blue
@@ -276,18 +279,26 @@
     {"ea6a56":"3a55bc","b9182a":"0b2d5d","842138":"011734"},
     //233 crystal furniture dark blue
     {"ea6a56":"aec4df","b9182a":"848ab6","842138":"4b4a78"},
+
     //283 crystal boss dark purple
     {"ea6a56":"af59d2","b9182a":"873aa6","842138":"4c1c62"},
     //283 crystal boss mid purple
     {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"873aa6"},
+    //283 erchies crystal dark purple
+    {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"7938a6"},
     //284 crystal rain light purple
     {"ea6a56":"dea1f5","b9182a":"c663ea","842138":"a342c7"},
     //284 crystal rain dark purple
     {"ea6a56":"c663ea","b9182a":"a342c7","842138":"74378a"},
     //287 crystal boss light purple
     {"ea6a56":"f9d9ff","b9182a":"e19cf4","842138":"af59d2"},
+    //287 erchius crystal mid purple
+    {"ea6a56":"ebb2f7","b9182a":"e19cf4","842138":"af59d2"},
+    //290 erchius crystal light purple
+    {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
     //298 crystal block light purple
     {"ea6a56":"f4c3fb","b9182a":"ec68f1","842138":"c541b8"},
+
     //306 crystal block dark purple
     {"ea6a56":"ec68f1","b9182a":"c541b8","842138":"922c82"},
     //341 crystal slide red
@@ -316,6 +327,7 @@
     {"ea6a56":"ffdbd9","b9182a":"a63a42","842138":"621c23"},
     //360 crystal block dark red
     {"ea6a56":"f1687a","b9182a":"c54142","842138":"92312c"},
+
     //0.20 crystal block dark black
     {"ea6a56":"565656","b9182a":"333","842138":"1e1e1e"},
     //0.34 crystal block light black
