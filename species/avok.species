@@ -304,6 +304,10 @@
     {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
     //290 erchius crystal sample light purple
     {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"af59d2"},
+    //292 purplecrystal light
+    {"ea6a56":"ebebeb","b9182a":"bf82c8","842138":"853f90"},
+    //292 purplecrystal dark
+    {"ea6a56":"bf82c8","b9182a":"853f90","842138":"5b2b63"},
     //298 crystal block light purple
     {"ea6a56":"f4c3fb","b9182a":"ec68f1","842138":"c541b8"},
 
