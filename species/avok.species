@@ -249,9 +249,13 @@
     {"ea6a56":"ecf9dc","b9182a":"c1dfae","842138":"87b684"},
     //116 crystal furniture dark green
     {"ea6a56":"c1dfae","b9182a":"87b684","842138":"4a784e"},
+    //116 tree geode light green
+    {"ea6a56":"79fa66","b9182a":"2bcd1e","842138":"0d9319"},
 
     //122 crystal block light green
     {"ea6a56":"c6fbc3","b9182a":"68f16d","842138":"41c556"},
+    //125 tree geode dark green
+    {"ea6a56":"2bcd1e","b9182a":"0d9319","842138":"015801"},
     //130 crystal block dark green
     {"ea6a56":"68f16d","b9182a":"41c556","842138":"2c9242"},
     //153 crystalline bush light green
@@ -273,6 +277,8 @@
     {"ea6a56":"68e1f1","b9182a":"41a5c5","842138":"2c7392"},
     //196 crystal cave bush light blue
     {"ea6a56":"c9eef6","b9182a":"76c7e4","842138":"4e8fb8"},
+    //199 tree geometric light blue
+    {"ea6a56":"effffe","b9182a":"c5e9fa","842138":"91bae9"},
     //203 crystal cave bush dark blue
     {"ea6a56":"76c7e4","b9182a":"4e8fb8","842138":"366388"},
     //204 crystal shard blue
@@ -281,6 +287,8 @@
     {"ea6a56":"73c6da","b9182a":"4689c0","842138":"3b4f75"},
     //210 ancient crystal trap on light blue
     {"ea6a56":"7cb2fa","b9182a":"2182e3","842138":"054eae"},
+    //212 tree geometric dark blue
+    {"ea6a56":"c5e9fa","b9182a":"91bae9","842138":"717ecd"},
     //213 crystal furniture light blue
     {"ea6a56":"dceef9","b9182a":"aec4df","842138":"848ab6"},
     //214 ancient crystal trap on dark blue
