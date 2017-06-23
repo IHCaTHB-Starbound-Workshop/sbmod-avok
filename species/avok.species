@@ -313,9 +313,9 @@
     //287 crystal boss light purple
     {"ea6a56":"f9d9ff","b9182a":"e19cf4","842138":"af59d2"},
     //287 erchius crystal mid purple
-    {"ea6a56":"ebb2f7","b9182a":"e19cf4","842138":"af59d2"},
+    //{"ea6a56":"ebb2f7","b9182a":"e19cf4","842138":"af59d2"},
     //290 erchius crystal light purple
-    {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
+    //{"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
     //290 erchius crystal sample light purple
     {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"af59d2"},
     //292 purplecrystal light
