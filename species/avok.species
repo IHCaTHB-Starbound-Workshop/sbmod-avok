@@ -286,6 +286,8 @@
     {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"873aa6"},
     //283 erchies crystal dark purple
     {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"7938a6"},
+    //283 erchies crystal boss dark purple
+    {"ea6a56":"ebb2f7","b9182a":"af59d2","842138":"7938a6"},
     //284 crystal rain light purple
     {"ea6a56":"dea1f5","b9182a":"c663ea","842138":"a342c7"},
     //284 crystal rain dark purple
@@ -296,6 +298,8 @@
     {"ea6a56":"ebb2f7","b9182a":"e19cf4","842138":"af59d2"},
     //290 erchius crystal light purple
     {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
+    //290 erchius crystal sample light purple
+    {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"af59d2"},
     //298 crystal block light purple
     {"ea6a56":"f4c3fb","b9182a":"ec68f1","842138":"c541b8"},
 
