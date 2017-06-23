@@ -106,7 +106,7 @@
        "name" : "male",
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/avokmale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "kp1", "kp1a", "kp2", "kp3", "kp4", "ks1", "ks1a", "ks2", "ks2a", "ks2b", "ks2c", "ks3", "ks3a", "ks4", "ks4a", "ks5", "ks5a" ],
+      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystaltrap1", "crystaltrap2", "crystals6", "kp1", "kp1a", "kp2", "kp3", "kp4", "ks1", "ks1a", "ks2", "ks2a", "ks2b", "ks2c", "ks3", "ks3a", "ks4", "ks4a", "ks5", "ks5a" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
       "facialHairGroup" : "",
@@ -118,7 +118,7 @@
       "name" : "female",
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/avokfemale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "kp1", "kp1a", "kp2", "kp3", "kp4", "ks1", "ks1a", "ks2", "ks2a", "ks2b", "ks2c", "ks3", "ks3a", "ks4", "ks4a", "ks5", "ks5a" ],
+      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "crystaltrap1", "crystaltrap2", "kp1", "kp1a", "kp2", "kp3", "kp4", "ks1", "ks1a", "ks2", "ks2a", "ks2b", "ks2c", "ks3", "ks3a", "ks4", "ks4a", "ks5", "ks5a" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
       "facialHairGroup" : "",
@@ -377,6 +377,6 @@
     //0.65 crystal block dark white
     {"ea6a56":"d8d8d8","b9182a":"a7a7a7","842138":"6b6b6b"},
     //0.85 crystal block light white
-    {"ea6a56":"f7f7f7","b9182a":"d8d8d8","842138":"a7a7a7"}
+    {"ea6a56":"ffffff","b9182a":"d8d8d8","842138":"a7a7a7"}
   ]
 }
