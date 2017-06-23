@@ -310,6 +310,8 @@
     {"ea6a56":"dea1f5","b9182a":"c663ea","842138":"a342c7"},
     //284 crystal rain dark purple
     {"ea6a56":"c663ea","b9182a":"a342c7","842138":"74378a"},
+    //286 bush crystals dark purple
+    {"ea6a56":"d952f2","b9182a":"9016b6","842138":"5d0b74"},
     //287 crystal boss light purple
     {"ea6a56":"f9d9ff","b9182a":"e19cf4","842138":"af59d2"},
     //287 erchius crystal mid purple
@@ -318,6 +320,8 @@
     //{"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
     //290 erchius crystal sample light purple
     {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"af59d2"},
+    //291 bush crystals light purple
+    {"ea6a56":"ff9aff","b9182a":"d952f2","842138":"9016b6"},
     //292 purplecrystal light
     {"ea6a56":"ebebeb","b9182a":"bf82c8","842138":"853f90"},
     //292 purplecrystal dark
