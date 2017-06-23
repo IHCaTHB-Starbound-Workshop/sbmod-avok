@@ -248,6 +248,8 @@
     {"ea6a56":"0ff48e","b9182a":"14bf73","842138":"0d8751"},
     //153 crystalline bush dark green
     {"ea6a56":"14bf73","b9182a":"0d8751","842138":"074227"},
+    //187 crystal light blue
+    {"ea6a56":"c3f9fb","b9182a":"68e1f1","842138":"41a5c5"},
     //187 crystal block light blue
     {"ea6a56":"c3f9fb","b9182a":"80e6f3","842138":"54b5d3"},
     //194 crystal block dark blue
@@ -304,7 +306,7 @@
     {},
     //353 crystal trap on dark red
     {"ea6a56":"d4003c","b9182a":"a80014","842138":"7e000f"},
-    //356 crystal boss eye  light red
+    //356 crystal boss eye light red
     {"ea6a56":"ffdbd9","b9182a":"d25962","842138":"a63a42"},
     //356 crystal boss eye dark red
     {"ea6a56":"d25962","b9182a":"a63a42","842138":"621c23"},
