@@ -214,6 +214,10 @@
   "hairColor" : [
     //0 crystal flower dark orange
     {"ea6a56":"dd4900","b9182a":"bf0000","842138":"8f000a"},
+    //0 mc redstone ore
+    {"ea6a56":"ff0000","b9182a":"aa0404","842138":"8f0303"},
+    //0 mc redstone ore alt
+    {"ea6a56":"ff0000","b9182a":"970303","842138":"8f0303"},
     //1 crystal grass light red
     {"ea6a56":"fab1b0","b9182a":"e85553","842138":"b53146"},
     //8 vanilla light red
@@ -224,6 +228,10 @@
     {"ea6a56":"f37e00","b9182a":"dd4900","842138":"bf0000"},
     //22 crystal block light orange
     {"ea6a56":"fbd3c3","b9182a":"f19a68","842138":"c58241"},
+    //24 mc iron ore
+    {"ea6a56":"e2c0aa","b9182a":"d8af93","842138":"af8e77"},
+    //25 mc iron ore alt
+    {"ea6a56":"e2c0aa","b9182a":"bc9980","842138":"af8e77"},
     //29 crystal plant seed orange
     {"ea6a56":"ffc744","b9182a":"fc7800","842138":"b64e00"},
     //30 crystal block dark orange
@@ -236,7 +244,13 @@
     {"ea6a56":"ffffff","b9182a":"ffed83","842138":"f5c945"},
     //55 crystal block light yellow
     {"ea6a56":"fbf2c3","b9182a":"f1e568","842138":"bfc541"},
+    //55 mc gold ore alt
+    {"ea6a56":"ffffff","b9182a":"fcee4b","842138":"f8af2b"},
 
+    //60 mc gold ore
+    {"ea6a56":"ffffff","b9182a":"ffffb5","842138":"f8af2b"},
+    //62 mc gold helm
+    {"ea6a56":"fdfdfd","b9182a":"e8ec55","842138":"d9a011"},
     //63 crystal block dark yellow
     {"ea6a56":"f1e568","b9182a":"bfc541","842138":"87922c"},
     //80 crystal plant seed dark green
@@ -258,10 +272,16 @@
     {"ea6a56":"2bcd1e","b9182a":"0d9319","842138":"015801"},
     //130 crystal block dark green
     {"ea6a56":"68f16d","b9182a":"41c556","842138":"2c9242"},
+    //143 mc emerald ore
+    {"ea6a56":"d9ffeb","b9182a":"17dd62","842138":"007b18"},
+    //143 mc emerald ore alt
+    {"ea6a56":"d9ffeb","b9182a":"5fad7d","842138":"007b18"},
     //153 crystalline bush light green
     {"ea6a56":"0ff48e","b9182a":"14bf73","842138":"0d8751"},
     //153 crystalline bush dark green
     {"ea6a56":"14bf73","b9182a":"0d8751","842138":"074227"},
+    //170 mc diamond helm
+    {"ea6a56":"fdfdfd","b9182a":"30e9c9","842138":"1c8875"},
     //178 tree icepine blue
     {"ea6a56":"e0fffe","b9182a":"ace8e6","842138":"649997"},
 
@@ -283,10 +303,14 @@
     {"ea6a56":"c9eef6","b9182a":"76c7e4","842138":"4e8fb8"},
     //199 tree geometric light blue
     {"ea6a56":"effffe","b9182a":"c5e9fa","842138":"91bae9"},
+    //200 mc diamond ore alt
+    {"ea6a56":"ffffff","b9182a":"77cefb","842138":"5decf5"},
     //203 crystal cave bush dark blue
     {"ea6a56":"76c7e4","b9182a":"4e8fb8","842138":"366388"},
     //204 crystal shard blue
     {"ea6a56":"ffffff","b9182a":"a7c3d6","842138":"78abcb"},
+    //205 mc diamond ore
+    {"ea6a56":"ffffff","b9182a":"c7e7fe","842138":"5decf5"},
     //207 vanilla blue
     {"ea6a56":"73c6da","b9182a":"4689c0","842138":"3b4f75"},
     //210 ancient crystal trap on light blue
@@ -301,6 +325,8 @@
     {"ea6a56":"0b2d5d","b9182a":"011734","842138":"000d1f"},
     //215 ancient crystal trap off light blue
     {"ea6a56":"3a55bc","b9182a":"0b2d5d","842138":"011734"},
+    //217 mc lapis ore
+    {"ea6a56":"2463b1","b9182a":"224c8e","842138":"1b459e"},
     //233 crystal furniture dark blue
     {"ea6a56":"aec4df","b9182a":"848ab6","842138":"4b4a78"},
 
@@ -372,10 +398,16 @@
 
     //0.20 crystal block dark black
     {"ea6a56":"565656","b9182a":"333","842138":"1e1e1e"},
+    //0.22 mc coal ore alt
+    {"ea6a56":"454545","b9182a":"373737","842138":"343434"},
+    //0.25 mc coal ore
+    {"ea6a56":"454545","b9182a":"3f3f3f","842138":"343434"},
     //0.34 crystal block light black
     {"ea6a56":"aaa","b9182a":"565656","842138":"333"},
     //0.65 crystal block dark white
     {"ea6a56":"d8d8d8","b9182a":"a7a7a7","842138":"6b6b6b"},
+    //0.77 mc iron helm 
+    {"ea6a56":"fdfdfd","b9182a":"c4c4c4","842138":"949494"},
     //0.85 crystal block light white
     {"ea6a56":"ffffff","b9182a":"d8d8d8","842138":"a7a7a7"},
     //glass
@@ -389,6 +421,8 @@
     //glass
     //{"ea6a56":"fff6","b9182a":"ccc5","842138":"9994"},
     //glass
-    //{"ea6a56":"fff3","b9182a":"ccc2","842138":"9991"}
+    //{"ea6a56":"fff3","b9182a":"ccc2","842138":"9991"},
+    //glass
+    //{"ea6a56":"fff3","b9182a":"ccc2","842138":"9991"},
   ]
 }
