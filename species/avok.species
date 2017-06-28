@@ -3,8 +3,8 @@
   "kind" : "avok",
   "charCreationTooltip" : {
     "title" : "Avok",
-    "subTitle" : "Minimalist Race Mod Template",
-    "description" : "Species that utilize existing assets where it can."
+    "subTitle" : "Ne",
+    "description" : "After millenia of solitude in it's temple, Kluex has manifested smaller Avatars to act as his eyes and ears among the sentient races."
   },
 
   "nameGen" : [ "/species/aviannamegen.config:names", "/species/aviannamegen.config:names" ],
