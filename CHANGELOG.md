@@ -2,10 +2,10 @@
 # changelog
 
 ### vur
-+ b
-
-### v0.1 yyyy-mm-dd
-+ a
++ 1 playable species
+~ 40 hair styles
+~ 10 beak styles
+~
 
 ---
 
