@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/items/avian"
+  },
+  {
+    "op": "copy",
+    "path": "/items/avok",
+    "from": "/items/avian"
+  }
+]

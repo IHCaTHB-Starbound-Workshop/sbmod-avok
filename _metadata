@@ -2,8 +2,11 @@
   "author" : "IHCaTHB",
   "description" : "",
   "friendlyName" : "",
-  "includes" : ["MRMTINIT.IHC"],
-  "name" : "AVOK.IHC",
+  "includes" : [],
+  "name" : ".IHC",
   "requires" : [],
   "version" : "0.1"
 }
+
+// @license MIT
+// @author IHCaTHB

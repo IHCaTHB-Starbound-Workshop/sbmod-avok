@@ -1,0 +1,21 @@
+[[
+  {
+    "op": "test",
+    "path": "/scriptConfig/merchant/categories/avian"
+  },
+  {
+    "op": "copy",
+    "path": "/scriptConfig/merchant/categories/avok",
+    "from": "/scriptConfig/merchant/categories/avian"
+  }
+],[
+  {
+    "op": "test",
+    "path": "/items/avian"
+  },
+  {
+    "op": "copy",
+    "path": "/items/avok",
+    "from": "/items/avian"
+  }
+]]
