@@ -1,9 +1,9 @@
 {
   "author" : "IHCaTHB",
   "description" : "",
-  "friendlyName" : "",
+  "friendlyName" : "The Avok",
   "includes" : [],
-  "name" : ".IHC",
+  "name" : "AVOK.IHC",
   "requires" : [],
   "version" : "0.1"
 }
