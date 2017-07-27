@@ -1,6 +1,26 @@
 {
   "author" : "IHCaTHB",
-  "description" : "",
+  "description" : "^#5aa9d6;Play as the Avok!^reset;
+
+The lesser avatars of Kluex act as his eyes and ears. Their bodies are part gem, part mysterious metal.
+
+Design based on the Kluex boss. Probably the right time to confess that I've never fought him.
+
+contains:
+1 playable species
+completely unique sprite
+39 hair styles
+11 beak styles
+17 body styles (yes you read that right)
+1 million color option (you read that one right too but it is a lie)
+
+Requires a character extender!
+
+Made with MRMT!
+
+For the best experience use with MRMT initialization.
+
+For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "The Avok",
   "includes" : [ "MRMTINIT.IHC" ],
   "name" : "AVOK.IHC",
