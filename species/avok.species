@@ -106,7 +106,7 @@
        "name" : "male",
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/avokmale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "crystaltrap1", "kcs1", "ks1", "ks1a", "ks2", "ks2a", "ks2b", "ks2c", "ks3", "ks3a", "ks4", "ks4a", "ks5", "ks5a", "tc1", "tc2a", "tc2b", "tc3a", "tc3b", "tc5" ],
+      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "crystaltrap1", "kcs1", "ks1", "ks1a", "ks2b", "ks2c", "ks3", "ks3a", "ks5", "ks5a", "tc1", "tc2a", "tc2b", "tc3a", "tc3b", "tc5" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
       "facialHairGroup" : "",
@@ -118,7 +118,7 @@
       "name" : "female",
       "image" : "/interface/title/female.png",
       "characterImage" : "/interface/title/avokfemale.png",
-      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "crystaltrap1", "kcs1", "ks1", "ks1a", "ks2", "ks2a", "ks2b", "ks2c", "ks3", "ks3a", "ks4", "ks4a", "ks5", "ks5a", "tc1", "tc2a", "tc2b", "tc3a", "tc3b", "tc5" ],
+      "hair" : [ "1", "2", "3", "4", "5", "6", "cb1", "cb2", "cb3", "crystals1", "crystals2", "crystals2a", "crystals2b", "crystals3", "crystals3a", "crystals3b", "crystals4", "crystals4a", "crystals5", "crystals6", "crystaltrap1", "kcs1", "ks1", "ks1a", "ks2b", "ks2c", "ks3", "ks3a", "ks5", "ks5a", "tc1", "tc2a", "tc2b", "tc3a", "tc3b", "tc5" ],
       "shirt" : [ "avianadventurershirt", "aviancommonershirt", "avianfancyshirt", "avianworkershirt" ],
       "pants" : [ "avianadventurerpants", "aviancommonerlegs", "avianfancyskirt", "avianworkerpants" ],
       "facialHairGroup" : "",
@@ -288,9 +288,9 @@
     //0 crystal flower dark orange
     {"ea6a56":"dd4900","b9182a":"bf0000","842138":"8f000a"},
     //0 mc redstone ore
-    {"ea6a56":"ff0000","b9182a":"aa0404","842138":"8f0303"},
+    {"ea6a56":"ff0000","b9182a":"aa0404","842138":"570303"},
     //0 mc redstone ore alt
-    {"ea6a56":"ff0000","b9182a":"970303","842138":"8f0303"},
+    //{"ea6a56":"ff0000","b9182a":"970303","842138":"8f0303"},
     //1 crystal grass light red
     {"ea6a56":"fab1b0","b9182a":"e85553","842138":"b53146"},
     //8 vanilla light red
@@ -302,9 +302,9 @@
     //22 crystal block light orange
     {"ea6a56":"fbd3c3","b9182a":"f19a68","842138":"c58241"},
     //24 mc iron ore
-    {"ea6a56":"e2c0aa","b9182a":"d8af93","842138":"af8e77"},
+    //{"ea6a56":"e2c0aa","b9182a":"d8af93","842138":"af8e77"},
     //25 mc iron ore alt
-    {"ea6a56":"e2c0aa","b9182a":"bc9980","842138":"af8e77"},
+    {"ea6a56":"e2c0aa","b9182a":"bc9980","842138":"966d4d"},
     //29 crystal plant seed orange
     {"ea6a56":"ffc744","b9182a":"fc7800","842138":"b64e00"},
     //30 crystal block dark orange
@@ -321,7 +321,7 @@
     {"ea6a56":"ffffff","b9182a":"fcee4b","842138":"f8af2b"},
 
     //60 mc gold ore
-    {"ea6a56":"ffffff","b9182a":"ffffb5","842138":"f8af2b"},
+    //{"ea6a56":"ffffff","b9182a":"ffffb5","842138":"f8af2b"},
     //62 mc gold helm
     {"ea6a56":"fdfdfd","b9182a":"e8ec55","842138":"d9a011"},
     //63 crystal block dark yellow
@@ -331,17 +331,16 @@
     //80 crystal plant seed mid green
     {"ea6a56":"cfff8a","b9182a":"9dd62c","842138":"587c10"},
     //85 crystal plant seed light green
-    {"ea6a56":"e8fec9","b9182a":"cfff8a","842138":"9dd62c"},
+    //{"ea6a56":"e8fec9","b9182a":"cfff8a","842138":"9dd62c"},
     //97 crystal furniture light green
-    {"ea6a56":"ecf9dc","b9182a":"c1dfae","842138":"87b684"},
+    //{"ea6a56":"ecf9dc","b9182a":"c1dfae","842138":"87b684"},
     //116 crystal furniture dark green
     {"ea6a56":"c1dfae","b9182a":"87b684","842138":"4a784e"},
     //116 tree geode light green
-
     {"ea6a56":"79fa66","b9182a":"2bcd1e","842138":"0d9319"},
 
     //122 crystal block light green
-    {"ea6a56":"c6fbc3","b9182a":"68f16d","842138":"41c556"},
+    {"ea6a56":"c6fbc3","b9182a":"68f16d","842138":"268034"},
     //125 tree geode dark green
     {"ea6a56":"2bcd1e","b9182a":"0d9319","842138":"015801"},
     //130 crystal block dark green
@@ -361,6 +360,8 @@
 
     //180.85 tree prism grey/blue
     {"ea6a56":"f5f5f5","b9182a":"d8d8d8","842138":"a7b1b1"},
+    //184 mc diamond ore
+    {"ea6a56":"ffffff","b9182a":"5decf5","842138":"00ddeb"},
     //187 crystal light blue
     {"ea6a56":"c3f9fb","b9182a":"68e1f1","842138":"41a5c5"},
     //187 crystal block light blue
@@ -376,15 +377,13 @@
     //196 crystal cave bush light blue
     {"ea6a56":"c9eef6","b9182a":"76c7e4","842138":"4e8fb8"},
     //199 tree geometric light blue
-    {"ea6a56":"effffe","b9182a":"c5e9fa","842138":"91bae9"},
+    //{"ea6a56":"effffe","b9182a":"c5e9fa","842138":"91bae9"},
     //200 mc diamond ore alt
-    {"ea6a56":"ffffff","b9182a":"77cefb","842138":"5decf5"},
+    {"ea6a56":"ffffff","b9182a":"77cefb","842138":"00a1f5"},
     //203 crystal cave bush dark blue
     {"ea6a56":"76c7e4","b9182a":"4e8fb8","842138":"366388"},
     //204 crystal shard blue
     {"ea6a56":"ffffff","b9182a":"a7c3d6","842138":"78abcb"},
-    //205 mc diamond ore
-    {"ea6a56":"ffffff","b9182a":"c7e7fe","842138":"5decf5"},
     //207 vanilla blue
     {"ea6a56":"73c6da","b9182a":"4689c0","842138":"3b4f75"},
     //210 ancient crystal trap on light blue
@@ -415,7 +414,7 @@
     //283 crystal boss mid purple
     {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"873aa6"},
     //283 erchius crystal dark purple
-    {"ea6a56":"e19cf4","b9182a":"af59d2","842138":"7938a6"},
+    //{"ea6a56":"e19cf4","b9182a":"af59d2","842138":"7938a6"},
     //283 erchius crystal sample dark purple
     {"ea6a56":"ebb2f7","b9182a":"af59d2","842138":"7938a6"},
     //284 crystal rain light purple
@@ -427,9 +426,9 @@
     //287 crystal boss light purple
     {"ea6a56":"f9d9ff","b9182a":"e19cf4","842138":"af59d2"},
     //287 erchius crystal mid purple
-    {"ea6a56":"ebb2f7","b9182a":"e19cf4","842138":"af59d2"},
+    //{"ea6a56":"ebb2f7","b9182a":"e19cf4","842138":"af59d2"},
     //290 erchius crystal light purple
-    {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
+    //{"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"e19cf4"},
     //290 erchius crystal sample light purple
     {"ea6a56":"f9d9ff","b9182a":"ebb2f7","842138":"af59d2"},
     //291 bush crystals light purple
@@ -473,9 +472,9 @@
     //0.20 crystal block dark black
     {"ea6a56":"565656","b9182a":"333","842138":"1e1e1e"},
     //0.22 mc coal ore alt
-    {"ea6a56":"454545","b9182a":"373737","842138":"343434"},
+    {"ea6a56":"454545","b9182a":"373737","842138":"2b2b2b"},
     //0.25 mc coal ore
-    {"ea6a56":"454545","b9182a":"3f3f3f","842138":"343434"},
+    //{"ea6a56":"454545","b9182a":"3f3f3f","842138":"343434"},
     //0.34 crystal block light black
     {"ea6a56":"aaa","b9182a":"565656","842138":"333"},
     //0.65 crystal block dark white
